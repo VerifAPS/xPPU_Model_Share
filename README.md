@@ -1,6 +1,8 @@
 # xPPU_Model_Share
 
-This repository is to share detailed models and control code of both the Pick and Place Unit (PPU) and the Extended Pick and Place Unit (xPPU). The current models and code are in the Beta-State. 
+This repository is to share detailed models and control code of both the Pick and Place Unit (PPU) and the Extended Pick and Place Unit (xPPU). 
+
+The current models and code are in the Beta-State, Check (Beta-Branch). 
 
 If you use the content of this repository for your research, please cite the following documents in your publications:
 
