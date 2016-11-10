@@ -6,7 +6,6 @@ The current models and code are in the Beta state, please see `beta` branch.
 
 ## Contact
 
-If you have any questions feel free to contact, .... or ... 
 
 ## License
 
