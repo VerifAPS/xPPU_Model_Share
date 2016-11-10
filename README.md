@@ -2,7 +2,7 @@
 
 Here you can find the detailed models and control code of both the Pick and Place Unit (PPU) and the Extended Pick and Place Unit (xPPU). 
 
-The current models and code are in the Beta state, please see `beta` branch.
+The current models and code are in the Beta state.
 
 ## Contact
 
