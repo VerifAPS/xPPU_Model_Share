@@ -1,6 +1,6 @@
 # Extended Pick and Place Unit
 
-Please visit the [main README](../README.md) for citation remarks. 
+Please visit the [main README](https://github.com/SafaBoug/xPPU_Model_Share/blob/master/README.md) for citation remarks. 
 
 ## Overview
 
