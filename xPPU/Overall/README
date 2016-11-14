@@ -1,21 +1,7 @@
-# Extended Pick and Place Unit (xPPU)
-# Software models of the (x)PPU 
+xPPU_Model_Share
 
-Here you can find the detailed models and control code of both the Pick and Place Unit (PPU) and the Extended Pick and Place Unit (xPPU). 
+This repository is to share detailed models and control code of both the Pick and Place Unit (PPU) and the Extended Pick and Place Unit (xPPU).
 
-The current models and code are in the Beta state.
+Citation
 
-
-Please visit the [main README](../README.md) for citation remarks. 
-
-## Overview
-
-* `PLCOpenProject XPPU.xml`
-  The source code of the xPPU for the final scenarios in *PLC Open XML*.
-  
-* `XPPU-Modelle.zip`
-  The SysML models of the xPPU, designed with [Papyrus](https://eclipse.org/papyrus/).    
- 
-* `TwinCAT XPPU.tszip` 
-  ...
-
+If you use the content of this repository for your research, please cite the following documents in your publications:
