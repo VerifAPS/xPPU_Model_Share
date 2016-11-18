@@ -10,5 +10,5 @@ Please visit the [main README](https://github.com/SafaBoug/xPPU_Model_Share/blob
 * `XPPU-Modelle.zip`
   The SysML models of the xPPU, designed with [Papyrus](https://eclipse.org/papyrus/).    
  
-* `TwinCAT XPPU.tszip` 
-  ...
+* `TwinCAT XPPU.tszip` The Archived TwinCAT project (code) of the XPPU for the final scenarios
+ 
