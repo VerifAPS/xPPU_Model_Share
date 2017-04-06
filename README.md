@@ -4,12 +4,6 @@ Here you can find the detailed models and control code of both the Pick and Plac
 
 The current models and code are in the Beta state.
 
-## Contact
-
-
-## License
-
-
 ## Citation
 
 If you use the content of this repository for your research, please cite the following documents in your publications:
